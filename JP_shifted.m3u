@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz" tvg-shift=18 m3uautoload=1
+#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/indigodrigo/epg-output@main/guide_shifted.xml.gz" tvg-shift=0 m3uautoload=1
 
 # === Tokyo Terrestrial ===
 
