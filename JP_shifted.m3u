@@ -13,7 +13,7 @@ http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongyin
 http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
 
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_720&sid=Skp6lESem89Sbf7xn99H1UX1xLfWwWGLzkDHefqZ&secret=069ea55b7f762248ea28f6c92cfeef34&time=1752166809
 
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
 http://58.82.168.138:5002/gd04.m3u8?token=guoziyun&gid=gd04&channel=zhongying
@@ -22,7 +22,7 @@ http://58.82.168.138:5002/gd04.m3u8?token=guoziyun&gid=gd04&channel=zhongying
 http://58.82.168.138:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_fuji_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=c5f159983f0e7d5da51dd6c2b4ecb5f6&time=1721466311
+http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
 
 #EXTINF:-1 tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
 http://58.82.168.138:5002/gd08.m3u8?token=guoziyun&gid=gd08&channel=zhongying
@@ -468,9 +468,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="General" tvg-id="BSテレ東-4K_jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png",BS TV Tokyo 4K
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="General" tvg-id="チャンネル銀河_jp" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
-https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="ディスカバリーチャンネル_jp" tvg-name="Discovery Channel" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png",Discovery Channel
 http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying
 
@@ -486,12 +483,6 @@ http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying
 #EXTINF:-1 group-title="General" tvg-id="フジテレビNEXT_jp" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying
 
-#EXTINF:-1 group-title="General" tvg-id="フジテレビONE_jp" tvg-name="Fuji TV ONE" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png",Fuji TV ONE
-https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="フジテレビTWO_jp" tvg-name="Fuji TV TWO" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png",Fuji TV TWO
-https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="ヒストリーチャンネル_jp" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png",History
 http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying
 
@@ -500,9 +491,6 @@ http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying
 
 #EXTINF:-1 group-title="General" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying
-
-#EXTINF:-1 group-title="General" tvg-id="KBS-WORLD_jp" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="General" tvg-id="kntv.jp" tvg-name="KNTV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png",KNTV
 https://akariko-bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls
@@ -522,47 +510,17 @@ https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?m
 #EXTINF:-1 group-title="General" tvg-id="ナショナル-ジオグラフィック_jp" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
 http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying
 
-#EXTINF:-1 group-title="General" tvg-id="映画・チャンネルNECO_jp" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="NHK・BSP_jp" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 
 #EXTINF:-1 group-title="General" tvg-id="日本映画専門チャンネル_jp" tvg-name="Nihon Eiga Senmon" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png",Nihon Eiga Senmon
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 
-#EXTINF:-1 group-title="General" tvg-id="日テレプラス_jp" tvg-name="Nittele Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png",Nittele Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="囲碁・将棋チャンネル_jp" tvg-name="Shogi Channel" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png",Shogi Channel
-https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="旅チャンネル_jp" tvg-name="Tabi Channel" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png",Tabi Channel
 http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying
 
-#EXTINF:-1 group-title="General" tvg-id="タカラヅカ・スカイ・ステージ_jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",Takarazuka Sky Stage
-https://akariko-bck1.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="TBSチャンネル1" tvg-name="TBS Channel 1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",TBS Channel 1
-https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="TBSチャンネル2" tvg-name="TBS Channel 2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",TBS Channel 2
-https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="鉄道チャンネル_jp" tvg-name="Tetsudo Channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png",Tetsudo Channel
 https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="ザ・シネマ_jp" tvg-name="The Cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png",The Cinema
-https://akariko-bck1.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="東映チャンネル_jp" tvg-name="Toei Channel" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png",Toei Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル1_jp" tvg-name="TV Asahi Channel 1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png",TV Asahi Channel 1
-https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル2_jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png",TV Asahi Channel 2
-https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW Cinema
 http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
@@ -570,17 +528,11 @@ http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
 #EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",WOWOW Live
 http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
 
-#EXTINF:-1 group-title="General" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png",WOWOW Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="General" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW Prime
 http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
 
 #EXTINF:-1 group-title="Kids" tvg-id="アニマックス_jp" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
 http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
-
-#EXTINF:-1 group-title="Kids" tvg-id="アニメシアター(AT-X)_jp" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
-https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Kids" tvg-id="カートゥーン-ネットワーク_jp" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
@@ -590,9 +542,6 @@ http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 
 #EXTINF:-1 group-title="Kids" tvg-id="ディズニージュニア_jp" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
 http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
-
-#EXTINF:-1 group-title="Kids" tvg-id="キッズステーション_jp" tvg-name="Kids Station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
-http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
 
 #EXTINF:-1 group-title="Music" tvg-id="歌謡ポップスチャンネル_jp" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying
@@ -609,41 +558,14 @@ https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="Music" tvg-id="ミュージック・ジャパンTV_jp" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
 http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 
-#EXTINF:-1 group-title="Music" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-name="Music ON TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png",Music ON TV
-https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="NSFW" tvg-id="jp103" tvg-name="Nouvelle Paradise" tvg-logo="https://xuanzi-storage.netgenx.site/",Nouvelle Paradise
-https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="NSFW" tvg-id="Pigoo_jp" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
-https://akariko-bck1.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="NSFW" tvg-id="V-パラダイス_jp" tvg-name="V Paradise" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/292.png",V Paradise
-https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="News/Business" tvg-id="BBCニュース_jp" tvg-name="BBC News" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png",BBC News
 http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying
 
 #EXTINF:-1 group-title="News/Business" tvg-id="CNNj_jp" tvg-name="CNNj" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png",CNNj
 http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying
 
-#EXTINF:-1 group-title="News/Business" tvg-id="NHKワールド-JAPAN_jp" tvg-name="NHK World-Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png",NHK World-Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:-1 group-title="News/Business" tvg-id="日テレNEWS24_jp" tvg-name="NTV News24" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",NTV News24
-https://akariko-bck1.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="News/Business" tvg-id="TBS-NEWS_jp" tvg-name="TBS News" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS News
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
-
-#EXTINF:-1 group-title="Shopping" tvg-id="ジュエリー☆GSTV_jp" tvg-name="GSTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-192-400x400.png",GSTV
-https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-
-#EXTINF:-1 group-title="Shopping" tvg-id="QVC_jp" tvg-name="QVC" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-172-400x400.png",QVC
-https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="FIGHTING-TV-サムライ_jp" tvg-name="Fighting TV Samurai" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png",Fighting TV Samurai
-https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Sports" tvg-id="釣りビジョン_jp" tvg-name="Fishing Vision" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",Fishing Vision
 http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying
@@ -675,9 +597,6 @@ http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying
 #EXTINF:-1 group-title="Sports" tvg-id="スカイA_jp" tvg-name="Sky A" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A
 http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 
-#EXTINF:-1 group-title="Sports" tvg-id="スポーツライブ+_jp" tvg-name="Sport Live Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png",Sport Live Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
 https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
@@ -692,3 +611,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 
 #EXTINF:-1 tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png",映画（年齢制限あり）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="NSFW" tvg-id="jp103" tvg-name="Nouvelle Paradise" tvg-logo="https://xuanzi-storage.netgenx.site/",Nouvelle Paradise
+https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
