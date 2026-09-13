@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/indigodrigo/epg-output@main/guide_shifted.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/indigodrigo/epg-output/main/guide_shifted.xml.gz" tvg-shift="0" m3uautoload="1"
 
 #EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.SjZ6-KH849QReNZtQLgbCqSe6pOVW48BPX0vWPCdr_MHPCocunOE7A.HKh7g6Knc2CqeIi1.7hLUSQ5scahkuHhUMhFEm_ngJT8eOb3ORzup7_IXoU0H6_979s0F8Lkl5pqk5OcOpXG9XDeLr1LkkTBaIFo9Lh2YzcY7XjuJJas3Q1ejL0mesog.tjnROaLQhiTqKTx19rLZ3w&mode=hls&start=${start}",Fuji TV
 https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.SjZ6-KH849QReNZtQLgbCqSe6pOVW48BPX0vWPCdr_MHPCocunOE7A.HKh7g6Knc2CqeIi1.7hLUSQ5scahkuHhUMhFEm_ngJT8eOb3ORzup7_IXoU0H6_979s0F8Lkl5pqk5OcOpXG9XDeLr1LkkTBaIFo9Lh2YzcY7XjuJJas3Q1ejL0mesog.tjnROaLQhiTqKTx19rLZ3w&mode=hls
